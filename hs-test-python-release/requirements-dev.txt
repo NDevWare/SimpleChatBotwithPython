@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+pandas
+scipy
+flake8
+isort
